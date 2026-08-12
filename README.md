@@ -1,4 +1,4 @@
-# Hi there, I'm Chidiebere 👋
+# Hi there, I'm Chidera 👋
 
 ## AI Software Engineer in the Making
 
