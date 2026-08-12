@@ -2,7 +2,7 @@
 
 ## Software Engineer in the Making
 
-I'm a final-year Computer Science student on a mission to become an **AI-focused Software Engineer** someone who can design, build, deploy, and maintain intelligent software systems from end to end.
+I'm a final-year Computer Science student on a mission to become a **Software Engineer**, someone who can design, build, deploy, and maintain software systems from end to end.
 
 ---
 
